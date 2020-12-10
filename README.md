@@ -42,14 +42,14 @@
 
 ### GitHub
 
-<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OliverKovacs&show_icons=true&hide_border=false" />&nbsp;
+<img alt="GitHub Stats" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api?username=OliverKovacs&show_icons=true&theme=github_dark&hide_border=false" />&nbsp;
 
-<img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true" />
+<img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true&theme=github_dark" />
 
 ### Projects
 
-[<img alt="wilson" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=hiubok&show_owner=true&repo=wilson" />](https://github.com/hiubok/wilson)
-[<img alt="icd" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=OliverKovacs&show_owner=true&repo=JavaScript-samples" />](https://github.com/OliverKovacs/JavaScript-samples)
+[<img alt="wilson" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=hiubok&show_owner=true&repo=wilson&theme=github_dark" />](https://github.com/hiubok/wilson)
+[<img alt="icd" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=OliverKovacs&show_owner=true&repo=JavaScript-samples&theme=github_dark" />](https://github.com/OliverKovacs/JavaScript-samples)
 &nbsp;
 
 ### Spotify
