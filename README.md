@@ -7,7 +7,7 @@
 
 [<img align="left" alt="Website" width="28px" src="./icons/globe.svg" />](https://github.com/OliverKovacs)
 [<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
-[<img align="left" alt="Medium" width="28px" src="./icons/medium-light.svg" />](https://oliverkovacs.medium.com/)
+[<img align="left" alt="Medium" width="28px" src="./icons/medium-dark.svg" />](https://oliverkovacs.medium.com/)
 [<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
 
 <br />
@@ -33,9 +33,9 @@
 [<img align="left" alt="React Native" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactts.svg" />](https://reactnative.dev/)
 [<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="git" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="28px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/)
+[<img align="left" alt="GitHub" width="28px" src="./icons/github-dark.svg" />](https://github.com/)
 [<img align="left" alt="Docker" width="28px" src="./icons/docker.svg" />](https://www.docker.com/)
-[<img align="left" alt="Unity" width="28px" src="./icons/unity.svg" />](https://unity.com/)
+[<img align="left" alt="Unity" width="28px" src="./icons/unity-dark.svg" />](https://unity.com/)
 
 <br />
 <br />

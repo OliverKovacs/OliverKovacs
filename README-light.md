@@ -33,7 +33,7 @@
 [<img align="left" alt="React Native" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactts.svg" />](https://reactnative.dev/)
 [<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="git" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="28px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/)
+[<img align="left" alt="GitHub" width="28px" src="./icons/github.svg" />](https://github.com/)
 [<img align="left" alt="Docker" width="28px" src="./icons/docker.svg" />](https://www.docker.com/)
 [<img align="left" alt="Unity" width="28px" src="./icons/unity.svg" />](https://unity.com/)
 
