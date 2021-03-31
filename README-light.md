@@ -7,6 +7,7 @@
 
 [<img align="left" alt="Website" width="28px" src="./icons/globe.svg" />](https://github.com/OliverKovacs)
 [<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
+[<img align="left" alt="Medium" width="28px" src="./icons/medium.svg" />](https://oliverkovacs.medium.com/)
 [<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
 
 <br />
@@ -49,7 +50,7 @@
 ### Projects
 
 [<img alt="wilson" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=hiubok&show_owner=true&repo=wilson" />](https://github.com/hiubok/wilson)
-[<img alt="icd" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=OliverKovacs&show_owner=true&repo=JavaScript-samples" />](https://github.com/OliverKovacs/JavaScript-samples)
+[<img alt="engine-xd" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=dx81&show_owner=true&repo=engine-xd" />](https://github.com/dx81/engine-xd)
 &nbsp;
 
 ### Spotify
