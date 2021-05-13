@@ -15,24 +15,24 @@
 ### Languages
 
 [<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" />](https://www.python.org/)
-[<img align="left" alt="C#" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="C++" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp3.svg" />](https://isocpp.org/)
-[<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" />](https://www.w3.org/TR/CSS2/)
+[<img align="left" alt="Python" width="28px" src="./icons/python.svg" />](https://www.python.org/)
+[<img align="left" alt="C#" width="28px" src="./icons/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="C++" width="28px" src="./icons/cpp.svg" />](https://isocpp.org/)
+[<img align="left" alt="HTML5" width="28px" src="./icons/html.svg" />](https://html.spec.whatwg.org/)
+[<img align="left" alt="CSS3" width="28px" src="./icons/css.svg" />](https://www.w3.org/TR/CSS2/)
 
 <br />
 
 ### Tools and Technologies
 
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" />](https://nodejs.org/en/)
-[<img align="left" alt="npm" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_npm.svg" />](https://www.npmjs.com/)
+[<img align="left" alt="Visual Studio Code" width="28px" src="./icons/vscode.svg" />](https://code.visualstudio.com/)
+[<img align="left" alt="Node.js" width="28px" src="./icons/node.svg" />](https://nodejs.org/en/)
+[<img align="left" alt="npm" width="28px" src="./icons/npm.svg" />](https://www.npmjs.com/)
 [<img align="left" alt="Electron" width="28px" src="./icons/electron.svg" />](https://www.electronjs.org/)
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" />](https://reactjs.org/)
-[<img align="left" alt="React Native" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactts.svg" />](https://reactnative.dev/)
-[<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />](https://www.mongodb.com/)
-[<img align="left" alt="git" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />](https://git-scm.com/)
+[<img align="left" alt="React" width="28px" src="./icons/reactjs.svg" />](https://reactjs.org/)
+[<img align="left" alt="React Native" width="28px" src="./icons/reactts.svg" />](https://reactnative.dev/)
+[<img align="left" alt="MongoDB" width="28px" src="./icons/mongo.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="git" width="28px" src="./icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="28px" src="./icons/github-dark.svg" />](https://github.com/)
 [<img align="left" alt="Docker" width="28px" src="./icons/docker.svg" />](https://www.docker.com/)
 [<img align="left" alt="Unity" width="28px" src="./icons/unity-dark.svg" />](https://unity.com/)
