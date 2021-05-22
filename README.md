@@ -1,15 +1,14 @@
 
 # Hello <img align="left" alt="Node.js" width="38px" src="./icons/pfp.png" />
 
-<!--![Twitter](https://img.shields.io/twitter/follow/oliverkovacsdev?label=Follow)-->
-
 ### Contact
 
 [<img align="left" alt="Website" width="28px" src="./icons/globe.svg" />](https://github.com/OliverKovacs)
 [<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
 [<img align="left" alt="Medium" width="28px" src="./icons/medium-dark.svg" />](https://oliverkovacs.medium.com/)
-[<img align="left" alt="Spotify" height="28px" src="./icons/spotify.svg">](https://open.spotify.com/user/oliverkovacs)
 [<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
+[<img align="left" alt="Spotify" height="28px" src="./icons/spotify.svg">](https://open.spotify.com/user/oliverkovacs)
+
 
 <br />
 
@@ -17,7 +16,6 @@
 
 [<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="Python" width="28px" src="./icons/python.svg" />](https://www.python.org/)
-[<img align="left" alt="C#" width="28px" src="./icons/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="C++" width="28px" src="./icons/cpp.svg" />](https://isocpp.org/)
 [<img align="left" alt="HTML5" width="28px" src="./icons/html.svg" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="CSS3" width="28px" src="./icons/css.svg" />](https://www.w3.org/TR/CSS2/)
@@ -32,7 +30,6 @@
 [<img align="left" alt="Electron" width="28px" src="./icons/electron.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="React" width="28px" src="./icons/reactjs.svg" />](https://reactjs.org/)
 [<img align="left" alt="React Native" width="28px" src="./icons/reactts.svg" />](https://reactnative.dev/)
-[<img align="left" alt="MongoDB" width="28px" src="./icons/mongo.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="git" width="28px" src="./icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="28px" src="./icons/github-dark.svg" />](https://github.com/)
 [<img align="left" alt="Docker" width="28px" src="./icons/docker.svg" />](https://www.docker.com/)
