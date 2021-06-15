@@ -30,6 +30,7 @@
 [<img align="left" alt="Electron" width="28px" src="./icons/electron.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="React" width="28px" src="./icons/reactjs.svg" />](https://reactjs.org/)
 [<img align="left" alt="React Native" width="28px" src="./icons/reactts.svg" />](https://reactnative.dev/)
+[<img align="left" alt="webgl" width="28px" src="./icons/webgl.svg" />](https://www.khronos.org/webgl/)
 [<img align="left" alt="git" width="28px" src="./icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="28px" src="./icons/github-dark.svg" />](https://github.com/)
 [<img align="left" alt="Docker" width="28px" src="./icons/docker.svg" />](https://www.docker.com/)
