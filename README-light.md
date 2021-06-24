@@ -53,4 +53,6 @@
 [<img alt="engine-xd" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=dx81&show_owner=true&repo=engine-xd" />](https://github.com/dx81/engine-xd)
 &nbsp;
 
+[Archived Repositories](https://github.com/OliverKovacsArchived)
+
 [Dark theme version](https://github.com/OliverKovacs/OliverKovacs/blob/main/README.md)
