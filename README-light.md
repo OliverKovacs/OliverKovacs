@@ -47,11 +47,6 @@
 
 <img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true?" />
 
-### Projects
-
-[<img alt="wilson" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=hiubok&show_owner=true&repo=wilson" />](https://github.com/hiubok/wilson)
-[<img alt="engine-xd" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/pin/?username=dx81&show_owner=true&repo=engine-xd" />](https://github.com/dx81/engine-xd)
-&nbsp;
 
 [Archived Repositories](https://github.com/OliverKovacsArchived)
 
