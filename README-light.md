@@ -43,9 +43,9 @@
 
 ### GitHub
 
-<img alt="GitHub Stats" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api?username=OliverKovacs&show_icons=true" />&nbsp;
+<img alt="GitHub Stats" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api?username=OliverKovacs&show_icons=true?" />&nbsp;
 
-<img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true" />
+<img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true?" />
 
 ### Projects
 
