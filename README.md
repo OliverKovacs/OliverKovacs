@@ -15,8 +15,8 @@
 ### Languages
 
 [<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="Python" width="28px" src="./icons/python.svg" />](https://www.python.org/)
 [<img align="left" alt="C++" width="28px" src="./icons/cpp.svg" />](https://isocpp.org/)
+[<img align="left" alt="Python" width="28px" src="./icons/rust-dark.svg" />](https://www.python.org/)
 [<img align="left" alt="HTML5" width="28px" src="./icons/html.svg" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="CSS3" width="28px" src="./icons/css.svg" />](https://www.w3.org/TR/CSS2/)
 
@@ -45,7 +45,7 @@
 
 <img alt="GitHub Stats" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api?username=OliverKovacs&show_icons=true&theme=github_dark&hide_border=true?" />&nbsp;
 
-<img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true&theme=github_dark&hide_border=true?" />
+<img alt="GitHub Languages" src="https://github-readme-stats-git-master.oliverkovacs.vercel.app/api/top-langs/?username=OliverKovacs&layout=compact&show_owner=true&theme=github_dark&hide_border=true&exclude_repo=dotfiles" />
 
 
 [Archived Repositories](https://github.com/OliverKovacsArchived)
