@@ -7,6 +7,7 @@
 [<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
 [<img align="left" alt="Medium" width="28px" src="./icons/medium-dark.svg" />](https://oliverkovacs.medium.com/)
 [<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
+[<img align="left" alt="LinkedIn" height="28px" src="./icons/linkedin.svg">](https://www.linkedin.com/in/oliver-k-a57129201)
 [<img align="left" alt="Spotify" height="28px" src="./icons/spotify.svg">](https://open.spotify.com/user/oliverkovacs)
 
 
