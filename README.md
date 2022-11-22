@@ -15,9 +15,10 @@
 
 ### Languages
 
-[<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="C++" width="28px" src="./icons/cpp.svg" />](https://isocpp.org/)
-[<img align="left" alt="Python" width="28px" src="./icons/rust-dark.svg" />](https://www.python.org/)
+[<img align="left" alt="Rust" width="28px" src="./icons/rust-dark.svg" />](https://www.rust-lang.org/)
+[<img align="left" alt="TypeScript" width="28px" src="./icons/typescript.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="HTML5" width="28px" src="./icons/html.svg" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="CSS3" width="28px" src="./icons/css.svg" />](https://www.w3.org/TR/CSS2/)
 

@@ -7,6 +7,7 @@
 [<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
 [<img align="left" alt="Medium" width="28px" src="./icons/medium.svg" />](https://oliverkovacs.medium.com/)
 [<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
+[<img align="left" alt="LinkedIn" height="28px" src="./icons/linkedin.svg">](https://www.linkedin.com/in/oliver-k-a57129201)
 [<img align="left" alt="Spotify" height="28px" src="./icons/spotify.svg">](https://open.spotify.com/user/oliverkovacs)
 
 
@@ -14,9 +15,10 @@
 
 ### Languages
 
-[<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="C++" width="28px" src="./icons/cpp.svg" />](https://isocpp.org/)
-[<img align="left" alt="Python" width="28px" src="./icons/rust.svg" />](https://www.python.org/)
+[<img align="left" alt="Rust" width="28px" src="./icons/rust.svg" />](https://www.rust-lang.org/)
+[<img align="left" alt="TypeScript" width="28px" src="./icons/typescript.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="HTML5" width="28px" src="./icons/html.svg" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="CSS3" width="28px" src="./icons/css.svg" />](https://www.w3.org/TR/CSS2/)
 
