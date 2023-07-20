@@ -4,10 +4,13 @@
 ### Contact
 
 [<img align="left" alt="Website" width="28px" src="./icons/globe.svg" />](https://oliverkovacs.github.io)
+[<img align="left" alt="Discord" width="28px" src="./icons/discord.svg" />](https://oliverkovacs.github.io/html/discord.html)
 [<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
-[<img align="left" alt="Medium" width="28px" src="./icons/medium-dark.svg" />](https://oliverkovacs.medium.com/)
-[<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
+[<img align="left" alt="YouTube" width="28px" src="./icons/youtube.svg" />](https://www.youtube.com/channel/UCjSxk8Bg9vRKUXrSI3ZIvAg)
 [<img align="left" alt="LinkedIn" height="28px" src="./icons/linkedin.svg">](https://www.linkedin.com/in/oliver-k-a57129201)
+[<img align="left" alt="Matrix" width="28px" src="./icons/matrix-dark.svg" />](https://matrix.to/#/@dnydxn:matrix.org)
+[<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
+[<img align="left" alt="Medium" width="28px" src="./icons/medium-dark.svg" />](https://oliverkovacs.medium.com/)
 [<img align="left" alt="Spotify" height="28px" src="./icons/spotify.svg">](https://open.spotify.com/user/oliverkovacs)
 
 
@@ -32,8 +35,9 @@
 [<img align="left" alt="Electron" width="28px" src="./icons/electron.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="React" width="28px" src="./icons/reactjs.svg" />](https://reactjs.org/)
 [<img align="left" alt="React Native" width="28px" src="./icons/reactts.svg" />](https://reactnative.dev/)
-[<img align="left" alt="webgl" width="28px" src="./icons/webgl.svg" />](https://www.khronos.org/webgl/)
 [<img align="left" alt="Vulkan" width="28px" src="./icons/vulkan.svg" />](https://www.vulkan.org/)
+[<img align="left" alt="OpenGL" width="28px" src="./icons/opengl.svg" />](https://www.khronos.org/opengl/)
+[<img align="left" alt="WebGL" width="28px" src="./icons/webgl.svg" />](https://www.khronos.org/webgl/)
 [<img align="left" alt="git" width="28px" src="./icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="28px" src="./icons/github-dark.svg" />](https://github.com/)
 [<img align="left" alt="Docker" width="28px" src="./icons/docker.svg" />](https://www.docker.com/)
