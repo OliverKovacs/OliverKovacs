@@ -9,7 +9,7 @@
 [<img align="left" alt="YouTube" width="28px" src="./icons/youtube.svg" />](https://www.youtube.com/channel/UCjSxk8Bg9vRKUXrSI3ZIvAg)
 [<img align="left" alt="LinkedIn" height="28px" src="./icons/linkedin.svg">](https://www.linkedin.com/in/oliver-k-a57129201)
 [<img align="left" alt="Matrix" width="28px" src="./icons/matrix.svg" />](https://matrix.to/#/@dnydxn:matrix.org)
-[<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver.kovacs.dev@gmail.com)
+[<img align="left" alt="Email" width="28px" src="./icons/gmail.svg" />](mailto:oliver@oliverkovacs.dev)
 [<img align="left" alt="Medium" width="28px" src="./icons/medium.svg" />](https://oliverkovacs.medium.com/)
 [<img align="left" alt="Spotify" height="28px" src="./icons/spotify.svg">](https://open.spotify.com/user/oliverkovacs)
 [<img align="left" alt="RSS" height="28px" src="./icons/rss.svg">](https://oliverkovacs.dev/feed.xml)
