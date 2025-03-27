@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // generates README-light.md from README.md
 const fs = require("fs");
 

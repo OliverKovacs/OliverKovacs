@@ -4,8 +4,8 @@
 ### Contact
 
 [<img align="left" alt="Website" width="28px" src="./icons/globe.svg" />](https://oliverkovacs.dev)
+[<img align="left" alt="Bluesky" width="28px" src="./icons/bluesky.svg" />](https://bsky.app/profile/oliverkovacs.dev)
 [<img align="left" alt="Discord" width="28px" src="./icons/discord.svg" />](https://oliverkovacs.dev/html/discord.html)
-[<img align="left" alt="Twitter" width="28px" src="./icons/twitter.svg" />](https://twitter.com/oliverkovacsdev)
 [<img align="left" alt="YouTube" width="28px" src="./icons/youtube.svg" />](https://www.youtube.com/channel/UCjSxk8Bg9vRKUXrSI3ZIvAg)
 [<img align="left" alt="LinkedIn" height="28px" src="./icons/linkedin.svg">](https://www.linkedin.com/in/oliver-k-a57129201)
 [<img align="left" alt="Matrix" width="28px" src="./icons/matrix-dark.svg" />](https://matrix.to/#/@dnydxn:matrix.org)
